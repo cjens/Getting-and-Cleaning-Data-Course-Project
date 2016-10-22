@@ -9,7 +9,7 @@ I hope it works!
 In my Github account (https://github.com/cjens) you can see the following files:
 
 1. The 'clean' r-script (run-analysis.r) that was used to generate finaldata.txt. There are no explanations in my script as I wrote them
-in the codebook instead. The codebook covers everythihng.
+in the codebook instead. The codebook covers everything.
 
 2. An extensive codebook (project.md) written in markdown, that also embeds the chunks of script with the accompanying explanations to the script chunks. At the end of the codebook after the explained script the metadata is listed. 
 This metadata explains the content of the variables in finaldata.txt whereas the first part of the codebook explains all the steps necessary to get from the raw data files to the cleaned data file. 
@@ -22,7 +22,7 @@ Version 1.0
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Università degli Studi di Genova.
+DITEN - UniversitÃ  degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
@@ -87,4 +87,4 @@ This dataset is distributed AS-IS and no responsibility implied or explicit can 
 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
+Â© 2016 GitHub, Inc. Terms Privacy Security Status Help
